@@ -8,7 +8,7 @@ Blend is a lightweight css plugin that makes it super simple to blend images, co
 
 ```html
 <head>
-<link rel="stylesheet" href="blend.min.css">
+  <link rel="stylesheet" href="blend.min.css">
 </head>
 ```
 
